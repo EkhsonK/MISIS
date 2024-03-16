@@ -13,7 +13,7 @@
 
 2. Склонировать к себе в папку из гитхаба файлы
 
-`git clone 'https://github.com/EkhsonK/MISIS.git'`
+`git clone https://github.com/EkhsonK/MISIS.git`
 
 # Запуск кода
 
